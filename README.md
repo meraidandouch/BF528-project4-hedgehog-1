@@ -6,13 +6,9 @@ This repository has the commands and code that was used to analyse the single ce
 
 # Contributors
 
-### Data Curator - Rojashree Jayakumar
-
-### Programmer - Qinrui Wu  
-
 ### Analyst - Merai Dandouch
 
-### Biologist - Dylan Beeber
+
 
 
 # Repository Contents
