@@ -8,23 +8,3 @@ This repository has the commands and code that was used to analyse the single ce
 
 ### Analyst - Merai Dandouch
 
-
-
-
-# Repository Contents
-
-### Data Curator
-
-#counts_whitelist.qsub - Combines the fastqfiles, sorts them and writes the frequency of each unique barcode into the file "white_list.txt"
-
-#CDF.R - R script that whitelists the frequent barcodes. This is identified by detecting the inflection point in the cumulative distribution plot
-
-#cdf.png - cumulative distribution plot of the barcodes
-
-#decoy.qsub - command to construct the decoy transcripts. The output is decoys.txt
-
-#index.qsub - command to build index. The output is salmon_index
-
-#mapping.qsub - command to map the transcripts. The output is map.tsv
-
-#alevin.qsub - commands to generate UMI matrix.
