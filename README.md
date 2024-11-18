@@ -4,7 +4,5 @@ Baron et al., determined the distinct subpopulations of pancreatic cells and cha
 
 This repository has the commands and code that was used to analyse the single cell sequencing data from a 51 year old female donor. This dataset was obtained from the article by Baron et al (https://www.ncbi.nlm.nih.gov/pubmed/27667365/).
 
-# Contributors
-
-### Analyst - Merai Dandouch
+### Analyst & DataCuration included in GitRepo
 
